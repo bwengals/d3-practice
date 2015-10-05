@@ -1,2 +1,5 @@
 # d3-practice
-making vis to practice d3
+
+Making Vis to practice d3.  Just a set of vis from working through tutorials and what not.
+
+
